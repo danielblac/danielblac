@@ -1,9 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-Hi 👋 My name is Daniel Egboro
-==============================
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Egboro!;" />
+</h1>
 
-Software Engineer
+<h3 align="center">A passionate software developer from Nigeria </h3>
 -----------------
 
 As a frontend developer with over four years of experience, I am passionate about creating beautiful, intuitive, and responsive websites and apps that are delightful to use. I have expertise in various programming languages, frameworks, and libraries, such as Next.js, React, JavaScript, TypeScript, Bootstrap, Tailwind CSS, SASS, CSS, HTML, and many other npm packages. For the past 1.5 years, I worked as a frontend developer team lead at Talosmart, a company that provides innovative solutions for clients across different industries. I was responsible for assigning tasks and supervising other frontend developers in all company projects, handling weekly presentations to clients, managing the company's GitHub repository, debugging existing projects, and writing clean and dry code. I also contributed to the design and development of several projects, using my skills in responsive web design and debugging to ensure customer satisfaction and quality standards. I am a team player who seeks to proffer solutions to professional challenges, utilizing my interpersonal skills and excellent time management. I am also a strategic thinker with a result-oriented personality, able to manage multiple projects with a positive attitude and achieve team objectives.
