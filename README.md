@@ -9,6 +9,7 @@
 
 As a frontend developer with over four years of experience, I am passionate about creating beautiful, intuitive, and responsive websites and apps that are delightful to use. I have expertise in various programming languages, frameworks, and libraries, such as Next.js, React, JavaScript, TypeScript, Bootstrap, Tailwind CSS, SASS, CSS, HTML, and many other npm packages. 
 <br/>
+<br/>
 For the past 1.5 years, I worked as a frontend developer team lead at Talosmart, a company that provides innovative solutions for clients across different industries. I was responsible for assigning tasks and supervising other frontend developers in all company projects, handling weekly presentations to clients, managing the company's GitHub repository, debugging existing projects, and writing clean and dry code. I also contributed to the design and development of several projects, using my skills in responsive web design and debugging to ensure customer satisfaction and quality standards. I am a team player who seeks to proffer solutions to professional challenges, utilizing my interpersonal skills and excellent time management. I am also a strategic thinker with a result-oriented personality, able to manage multiple projects with a positive attitude and achieve team objectives.
 
 * 🌍  I'm based in Nigeria
