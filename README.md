@@ -7,15 +7,26 @@
 <h3 align="center">A passionate software developer from Nigeria </h3>
 <br/>
 
-As a frontend developer with over four years of experience, I am passionate about creating beautiful, intuitive, and responsive websites and apps that are delightful to use. I have expertise in various programming languages, frameworks, and libraries, such as Next.js, React, JavaScript, TypeScript, Bootstrap, Tailwind CSS, SASS, CSS, HTML, and many other npm packages. 
+As a dedicated and versatile Full-Stack Developer, I combine the art of crafting seamless frontend interfaces, the science of building scalable backend systems and developing of performant cross-platform mobile applications. My expertise in React, Next.js, Nest.js, Node.js and React Native enables me to deliver robust digital solutions that drive business growth while elevating user experiences. 
 <br/>
 <br/>
-For the past 1.5 years, I worked as a frontend developer team lead at Talosmart, a company that provides innovative solutions for clients across different industries. I was responsible for assigning tasks and supervising other frontend developers in all company projects, handling weekly presentations to clients, managing the company's GitHub repository, debugging existing projects, and writing clean and dry code. I also contributed to the design and development of several projects, using my skills in responsive web design and debugging to ensure customer satisfaction and quality standards. I am a team player who seeks to proffer solutions to professional challenges, utilizing my interpersonal skills and excellent time management. I am also a strategic thinker with a result-oriented personality, able to manage multiple projects with a positive attitude and achieve team objectives.
+🌟 Frontend Expertise
+I transform ideas into visually stunning, interactive web interfaces using React and Next.js. My focus on responsive design, accessibility, and pixel-perfect implementation ensures every interface resonates with both brand vision and user needs.
+<br/>
+🌐 Backend Proficiency
+I architect scalable, secure backend systems with NestJS and Node.js, specializing in the Microservice Architecture, API design, Database Optimization, and Authentication Protocols. My solutions balance performance with maintainability for long-term success.
+<br/>
+📱 Mobile Development
+I build performant cross-platform mobile applications using React Native, delivering native-like experiences on both iOS and Android. My work at DanielBlac DevHub includes mentoring students in mobile development best practices and publishing production-ready apps.
+<br/>
+🌍 Vision
+Beyond coding, I align technology with business objectives to create impactful digital products. Whether leading development teams at Talosmart or building complete solutions at Thrillers Travels, I focus on delivering meaningful, results-driven outcomes.
+<br/>
+💬 Let’s Connect!
+I’m always excited to collaborate on innovative projects, share insights, and exchange ideas. Whether you’re looking to build a scalable application or brainstorm the next big thing in tech, feel free to reach out. Together, we can turn bold ideas into reality!
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://my-portfolio-gules-theta.vercel.app)
+* 🖥️  See my portfolio at [My Portfolio](https://danielblac-devhub.vercel.app/portfolio)
 * ✉️  You can contact me at [daniel\_blac@yahoo.com](mailto:daniel_blac@yahoo.com)
-* 🧠  I'm learning Backend Development
 * ⚡  Coding is my passion : )
 
 <br/>
