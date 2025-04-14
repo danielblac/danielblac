@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Egboro!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nigeria </h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <br/>
 
 As a dedicated and versatile Full-Stack Developer, I combine the art of crafting seamless frontend interfaces, the science of building scalable backend systems and developing of performant cross-platform mobile applications. My expertise in React, Next.js, Nest.js, Node.js and React Native enables me to deliver robust digital solutions that drive business growth while elevating user experiences. 
