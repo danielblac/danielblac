@@ -13,14 +13,18 @@ As a dedicated and versatile Full-Stack Developer, I combine the art of crafting
 🌟 Frontend Expertise
 I transform ideas into visually stunning, interactive web interfaces using React and Next.js. My focus on responsive design, accessibility, and pixel-perfect implementation ensures every interface resonates with both brand vision and user needs.
 <br/>
+<br/>
 🌐 Backend Proficiency
 I architect scalable, secure backend systems with NestJS and Node.js, specializing in the Microservice Architecture, API design, Database Optimization, and Authentication Protocols. My solutions balance performance with maintainability for long-term success.
+<br/>
 <br/>
 📱 Mobile Development
 I build performant cross-platform mobile applications using React Native, delivering native-like experiences on both iOS and Android. My work at DanielBlac DevHub includes mentoring students in mobile development best practices and publishing production-ready apps.
 <br/>
+<br/>
 🌍 Vision
 Beyond coding, I align technology with business objectives to create impactful digital products. Whether leading development teams at Talosmart or building complete solutions at Thrillers Travels, I focus on delivering meaningful, results-driven outcomes.
+<br/>
 <br/>
 💬 Let’s Connect!
 I’m always excited to collaborate on innovative projects, share insights, and exchange ideas. Whether you’re looking to build a scalable application or brainstorm the next big thing in tech, feel free to reach out. Together, we can turn bold ideas into reality!
